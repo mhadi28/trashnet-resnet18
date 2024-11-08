@@ -48,7 +48,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirement.txt
-        pip install papermill jupyter ipykernel  # Ensure all dependencies and kernel are available
+        pip install papermill jupyter ipykernel
+        python -m ipykernel install --user --name python3
+        jupyter kernelspec list  # Verifikasi kernel yang tersedia
 
     - name: Register Python Kernel
       run: |
