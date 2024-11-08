@@ -28,7 +28,8 @@ jobs:
         pip install papermill jupyter ipykernel  # Install papermill and ipykernel for executing Jupyter notebooks
 
     - name: Register Python Kernel
-      run: python -m ipykernel install --user --name=python3
+      run: |
+        python -m ipykernel install --user --name python3 --display-name "Python 3.10"  # Register python3 kernel
 
   train_model:
     runs-on: ubuntu-latest
@@ -50,11 +51,12 @@ jobs:
         pip install papermill jupyter ipykernel  # Ensure all dependencies and kernel are available
 
     - name: Register Python Kernel
-      run: python -m ipykernel install --user --name=python3
+      run: |
+        python -m ipykernel install --user --name python3 --display-name "Python 3.10"  # Register python3 kernel
 
     - name: Execute Jupyter Notebook
       run: |
-        papermill trashnet-ResNet18.ipynb output_train_model.ipynb  # Execute the notebook and save the output
+        papermill trashnet-ResNet18.ipynb output_train_model.ipynb -k python3  # Specify the kernel explicitly
 
     - name: Save model output
       run: |
