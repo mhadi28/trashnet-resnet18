@@ -1,0 +1,39 @@
+{"time":"2024-11-08T06:59:38.303101+07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-08T06:59:38.303185+07:00","level":"INFO","msg":"created symlink","path":"D:\\trashnet\\wandb\\run-20241108_065938-hvzpumv9\\logs\\debug-core.log"}
+{"time":"2024-11-08T06:59:38.4183444+07:00","level":"INFO","msg":"created new stream","id":"hvzpumv9"}
+{"time":"2024-11-08T06:59:38.4183444+07:00","level":"INFO","msg":"stream: started","id":"hvzpumv9"}
+{"time":"2024-11-08T06:59:38.4183444+07:00","level":"INFO","msg":"sender: started","stream_id":"hvzpumv9"}
+{"time":"2024-11-08T06:59:38.4183444+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hvzpumv9"}}
+{"time":"2024-11-08T06:59:38.4194279+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hvzpumv9"}}
+{"time":"2024-11-08T06:59:38.7890438+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-08T06:59:38.9902228+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:59:39.0067384+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:59:39.0210383+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:59:39.0375223+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:59:49.8119098+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:59:49.8158137+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:59:49.8208659+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:59:49.8348395+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:59:50.0764307+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:59:50.085343+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:59:58.0705714+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:59:58.0811037+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:59:59.422388+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:59:59.4489263+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T07:00:07.9030341+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T07:00:07.9255889+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T07:00:08.0691015+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T07:00:08.0844977+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T07:00:08.0860172+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T07:00:08.1014065+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T07:00:08.1064463+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T07:00:08.11426+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T07:00:08.1154277+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T07:00:08.1345019+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T07:00:13.5282071+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T07:00:13.5381645+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T07:00:13.5742787+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T07:00:13.5837277+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T07:00:13.9444331+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T07:02:39.821164+07:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/muhammad-abdlhadi-universitas-esa-unggul/trash_classification/hvzpumv9/file_stream"}
+{"time":"2024-11-08T07:02:39.821164+07:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/muhammad-abdlhadi-universitas-esa-unggul/trash_classification/hvzpumv9/file_stream: {\"error\":\"run trash_classification/hvzpumv9 not found while streaming file\"}"}

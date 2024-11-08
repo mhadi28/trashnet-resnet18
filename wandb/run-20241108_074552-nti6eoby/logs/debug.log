@@ -1,0 +1,59 @@
+2024-11-08 07:45:52,205 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-08 07:45:52,205 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Configure stats pid to 7716
+2024-11-08 07:45:52,205 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Loading settings from C:\Users\azzam\.config\wandb\settings
+2024-11-08 07:45:52,206 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Loading settings from D:\trashnet\wandb\settings
+2024-11-08 07:45:52,206 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-08 07:45:52,206 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-08 07:45:52,206 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-08 07:45:52,206 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-08 07:45:52,206 INFO    MainThread:7716 [wandb_init.py:_log_setup():533] Logging user logs to D:\trashnet\wandb\run-20241108_074552-nti6eoby\logs\debug.log
+2024-11-08 07:45:52,207 INFO    MainThread:7716 [wandb_init.py:_log_setup():534] Logging internal logs to D:\trashnet\wandb\run-20241108_074552-nti6eoby\logs\debug-internal.log
+2024-11-08 07:45:52,207 INFO    MainThread:7716 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001EBFA067310>
+2024-11-08 07:45:52,207 INFO    MainThread:7716 [wandb_init.py:init():619] calling init triggers
+2024-11-08 07:45:52,207 INFO    MainThread:7716 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-11-08 07:45:52,207 INFO    MainThread:7716 [wandb_init.py:init():644] re-initializing run, found existing run on stack: t605xpfv
+2024-11-08 07:45:52,208 INFO    MainThread:7716 [wandb_run.py:_finish():2146] finishing run muhammad-abdlhadi-universitas-esa-unggul/trash_classification/t605xpfv
+2024-11-08 07:45:52,209 INFO    MainThread:7716 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2024-11-08 07:45:52,209 INFO    MainThread:7716 [wandb_run.py:_restore():2396] restore
+2024-11-08 07:45:52,210 INFO    MainThread:7716 [wandb_run.py:_restore():2402] restore done
+2024-11-08 07:45:54,724 INFO    MainThread:7716 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-08 07:45:54,724 INFO    MainThread:7716 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-08 07:45:54,733 INFO    MainThread:7716 [wandb_run.py:_footer_sync_info():3922] logging synced files
+2024-11-08 07:45:54,737 INFO    MainThread:7716 [wandb_init.py:init():669] starting backend
+2024-11-08 07:45:54,737 INFO    MainThread:7716 [wandb_init.py:init():673] sending inform_init request
+2024-11-08 07:45:54,739 INFO    MainThread:7716 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-11-08 07:45:54,740 INFO    MainThread:7716 [wandb_init.py:init():686] backend started and connected
+2024-11-08 07:45:54,748 INFO    MainThread:7716 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2024-11-08 07:45:54,756 INFO    MainThread:7716 [wandb_init.py:init():781] updated telemetry
+2024-11-08 07:45:54,757 INFO    MainThread:7716 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-08 07:45:55,255 INFO    MainThread:7716 [wandb_init.py:init():867] starting run threads in backend
+2024-11-08 07:45:55,452 INFO    MainThread:7716 [wandb_run.py:_console_start():2451] atexit reg
+2024-11-08 07:45:55,452 INFO    MainThread:7716 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2024-11-08 07:45:55,452 INFO    MainThread:7716 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2024-11-08 07:45:55,452 INFO    MainThread:7716 [wandb_run.py:_redirect():2389] Redirects installed.
+2024-11-08 07:45:55,453 INFO    MainThread:7716 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-08 07:45:55,462 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-08 07:45:55,462 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Configure stats pid to 7716
+2024-11-08 07:45:55,463 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Loading settings from C:\Users\azzam\.config\wandb\settings
+2024-11-08 07:45:55,463 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Loading settings from D:\trashnet\wandb\settings
+2024-11-08 07:45:55,463 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-08 07:45:55,463 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-08 07:45:55,463 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-08 07:45:55,463 INFO    MainThread:7716 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-08 07:45:55,463 INFO    MainThread:7716 [wandb_init.py:_log_setup():533] Logging user logs to D:\trashnet\wandb\run-20241108_074555-bqr2ld8s\logs\debug.log
+2024-11-08 07:45:55,463 INFO    MainThread:7716 [wandb_init.py:_log_setup():534] Logging internal logs to D:\trashnet\wandb\run-20241108_074555-bqr2ld8s\logs\debug-internal.log
+2024-11-08 07:45:55,464 INFO    MainThread:7716 [wandb_init.py:init():619] calling init triggers
+2024-11-08 07:45:55,464 INFO    MainThread:7716 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0001, 'epochs': 50, 'batch_size': 64, 'model': 'ResNet18', 'optimizer': 'AdamW'}
+2024-11-08 07:45:55,464 INFO    MainThread:7716 [wandb_init.py:init():644] re-initializing run, found existing run on stack: nti6eoby
+2024-11-08 07:45:55,465 INFO    MainThread:7716 [wandb_run.py:_finish():2146] finishing run muhammad-abdlhadi-universitas-esa-unggul/trash_classification/nti6eoby
+2024-11-08 07:45:55,466 INFO    MainThread:7716 [jupyter.py:save_history():459] not saving jupyter history
+2024-11-08 07:45:55,466 INFO    MainThread:7716 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-08 07:45:55,466 INFO    MainThread:7716 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-08 07:45:55,466 INFO    MainThread:7716 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2024-11-08 07:45:55,466 INFO    MainThread:7716 [wandb_run.py:_restore():2396] restore
+2024-11-08 07:45:55,466 INFO    MainThread:7716 [wandb_run.py:_restore():2402] restore done
+2024-11-08 07:45:58,252 INFO    MainThread:7716 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-08 07:45:58,252 INFO    MainThread:7716 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-08 07:45:58,262 INFO    MainThread:7716 [wandb_run.py:_footer_sync_info():3922] logging synced files

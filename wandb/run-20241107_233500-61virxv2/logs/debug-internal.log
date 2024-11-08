@@ -1,0 +1,14 @@
+{"time":"2024-11-07T23:35:02.9552384+07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-07T23:35:02.9557449+07:00","level":"INFO","msg":"created symlink","path":"D:\\trashnet\\wandb\\run-20241107_233500-61virxv2\\logs\\debug-core.log"}
+{"time":"2024-11-07T23:35:03.0695309+07:00","level":"INFO","msg":"created new stream","id":"61virxv2"}
+{"time":"2024-11-07T23:35:03.0695867+07:00","level":"INFO","msg":"stream: started","id":"61virxv2"}
+{"time":"2024-11-07T23:35:03.0695867+07:00","level":"INFO","msg":"sender: started","stream_id":"61virxv2"}
+{"time":"2024-11-07T23:35:03.0695867+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"61virxv2"}}
+{"time":"2024-11-07T23:35:03.0695867+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"61virxv2"}}
+{"time":"2024-11-07T23:35:03.474513+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T23:45:49.4562385+07:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/muhammad-abdlhadi-universitas-esa-unggul/trash-classification/61virxv2/file_stream"}
+{"time":"2024-11-07T23:46:52.036024+07:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/muhammad-abdlhadi-universitas-esa-unggul/trash-classification/61virxv2/file_stream"}
+{"time":"2024-11-07T23:51:03.7620749+07:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/muhammad-abdlhadi-universitas-esa-unggul/trash-classification/61virxv2/file_stream"}
+{"time":"2024-11-07T23:53:43.7395311+07:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/muhammad-abdlhadi-universitas-esa-unggul/trash-classification/61virxv2/file_stream"}
+{"time":"2024-11-07T23:53:43.7395311+07:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/muhammad-abdlhadi-universitas-esa-unggul/trash-classification/61virxv2/file_stream: {\"error\":\"project muhammad-abdlhadi-universitas-esa-unggul/trash-classification not found while streaming file\"}"}
+{"time":"2024-11-08T05:53:24.6857114+07:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open D:\\trashnet\\wandb\\run-20241107_233500-61virxv2\\files\\output.log: The system cannot find the path specified."}

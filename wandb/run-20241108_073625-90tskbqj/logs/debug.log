@@ -1,0 +1,51 @@
+2024-11-08 07:36:25,457 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-08 07:36:25,457 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Configure stats pid to 7400
+2024-11-08 07:36:25,457 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Loading settings from C:\Users\azzam\.config\wandb\settings
+2024-11-08 07:36:25,457 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Loading settings from D:\trashnet\wandb\settings
+2024-11-08 07:36:25,457 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-08 07:36:25,457 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-08 07:36:25,458 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-08 07:36:25,458 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-08 07:36:25,458 INFO    MainThread:7400 [wandb_init.py:_log_setup():533] Logging user logs to D:\trashnet\wandb\run-20241108_073625-90tskbqj\logs\debug.log
+2024-11-08 07:36:25,458 INFO    MainThread:7400 [wandb_init.py:_log_setup():534] Logging internal logs to D:\trashnet\wandb\run-20241108_073625-90tskbqj\logs\debug-internal.log
+2024-11-08 07:36:25,458 INFO    MainThread:7400 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000028C5C5A40A0>
+2024-11-08 07:36:25,458 INFO    MainThread:7400 [wandb_init.py:init():619] calling init triggers
+2024-11-08 07:36:25,458 INFO    MainThread:7400 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-11-08 07:36:25,459 INFO    MainThread:7400 [wandb_init.py:init():669] starting backend
+2024-11-08 07:36:25,459 INFO    MainThread:7400 [wandb_init.py:init():673] sending inform_init request
+2024-11-08 07:36:25,460 INFO    MainThread:7400 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-11-08 07:36:25,461 INFO    MainThread:7400 [wandb_init.py:init():686] backend started and connected
+2024-11-08 07:36:25,470 INFO    MainThread:7400 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2024-11-08 07:36:25,477 INFO    MainThread:7400 [wandb_init.py:init():781] updated telemetry
+2024-11-08 07:36:25,478 INFO    MainThread:7400 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-08 07:36:25,959 INFO    MainThread:7400 [wandb_init.py:init():867] starting run threads in backend
+2024-11-08 07:36:26,163 INFO    MainThread:7400 [wandb_run.py:_console_start():2451] atexit reg
+2024-11-08 07:36:26,164 INFO    MainThread:7400 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2024-11-08 07:36:26,164 INFO    MainThread:7400 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2024-11-08 07:36:26,164 INFO    MainThread:7400 [wandb_run.py:_redirect():2389] Redirects installed.
+2024-11-08 07:36:26,166 INFO    MainThread:7400 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-08 07:36:26,175 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-08 07:36:26,175 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Configure stats pid to 7400
+2024-11-08 07:36:26,175 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Loading settings from C:\Users\azzam\.config\wandb\settings
+2024-11-08 07:36:26,175 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Loading settings from D:\trashnet\wandb\settings
+2024-11-08 07:36:26,175 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-08 07:36:26,176 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-08 07:36:26,176 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-08 07:36:26,176 INFO    MainThread:7400 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-08 07:36:26,176 INFO    MainThread:7400 [wandb_init.py:_log_setup():533] Logging user logs to D:\trashnet\wandb\run-20241108_073626-h3g3qz2v\logs\debug.log
+2024-11-08 07:36:26,176 INFO    MainThread:7400 [wandb_init.py:_log_setup():534] Logging internal logs to D:\trashnet\wandb\run-20241108_073626-h3g3qz2v\logs\debug-internal.log
+2024-11-08 07:36:26,176 INFO    MainThread:7400 [wandb_init.py:init():619] calling init triggers
+2024-11-08 07:36:26,176 INFO    MainThread:7400 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0001, 'epochs': 20, 'batch_size': 64, 'model': 'ResNet18', 'optimizer': 'AdamW'}
+2024-11-08 07:36:26,177 INFO    MainThread:7400 [wandb_init.py:init():644] re-initializing run, found existing run on stack: 90tskbqj
+2024-11-08 07:36:26,178 INFO    MainThread:7400 [wandb_run.py:_finish():2146] finishing run muhammad-abdlhadi-universitas-esa-unggul/trash_classification/90tskbqj
+2024-11-08 07:36:26,179 INFO    MainThread:7400 [jupyter.py:save_history():459] not saving jupyter history
+2024-11-08 07:36:26,179 INFO    MainThread:7400 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-08 07:36:26,179 INFO    MainThread:7400 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-08 07:36:26,179 INFO    MainThread:7400 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2024-11-08 07:36:26,179 INFO    MainThread:7400 [wandb_run.py:_restore():2396] restore
+2024-11-08 07:36:26,179 INFO    MainThread:7400 [wandb_run.py:_restore():2402] restore done
+2024-11-08 07:36:28,909 INFO    MainThread:7400 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-08 07:36:28,909 INFO    MainThread:7400 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-08 07:36:28,917 INFO    MainThread:7400 [wandb_run.py:_footer_sync_info():3922] logging synced files

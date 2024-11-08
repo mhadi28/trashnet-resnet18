@@ -1,0 +1,127 @@
+C:\Users\azzam\AppData\Local\Programs\Python\Python310\lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+C:\Users\azzam\AppData\Local\Programs\Python\Python310\lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+C:\Users\azzam\AppData\Local\Programs\Python\Python310\lib\site-packages\joblib\externals\loky\backend\context.py:136: UserWarning: Could not find the number of physical cores for the following reason:
+found 0 physical cores < 1
+Returning the number of logical cores instead. You can silence this warning by setting LOKY_MAX_CPU_COUNT to the number of cores you want to use.
+  warnings.warn(
+  File "C:\Users\azzam\AppData\Local\Programs\Python\Python310\lib\site-packages\joblib\externals\loky\backend\context.py", line 282, in _count_physical_cores
+    raise ValueError(f"found {cpu_count_physical} physical cores < 1")
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.92156863..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.77254903..0.7882353].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.6627451..0.6784314].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.6862745..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.85882354..0.8901961].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.38823527..0.73333335].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.96862745..0.8117647].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.6784314..0.9529412].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.372549..0.56078434].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.78039217..0.7882353].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.654902..0.92156863].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.96862745..0.9372549].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.9607843..0.9372549].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.77254903..0.99215686].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.7882353..0.9764706].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.6784314..0.8980392].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8117647..0.9843137].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.5137255..0.9372549].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.84313726..0.85882354].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.40392154..0.96862745].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8352941..0.94509804].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8901961..0.8980392].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.6784314..0.9764706].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8039216..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.42745095..0.8666667].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.9372549..0.9529412].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.9372549..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.92941177..0.81960785].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.92941177..0.90588236].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.84313726..0.79607844].
+Average image size (HxW): 224.00 x 224.00
+Epoch [1/20]
+Training - Loss: 0.9702, Accuracy: 62.22%
+Testing  - Accuracy: 69.14%
+--------------------------------------------------
+Epoch [2/20]
+Training - Loss: 0.5857, Accuracy: 78.18%
+Testing  - Accuracy: 79.10%
+--------------------------------------------------
+Epoch [3/20]
+Training - Loss: 0.4422, Accuracy: 83.27%
+Testing  - Accuracy: 81.21%
+--------------------------------------------------
+Epoch [4/20]
+Training - Loss: 0.3736, Accuracy: 86.43%
+Testing  - Accuracy: 79.94%
+--------------------------------------------------
+Epoch [5/20]
+Training - Loss: 0.2994, Accuracy: 89.30%
+Testing  - Accuracy: 87.24%
+--------------------------------------------------
+Epoch [6/20]
+Training - Loss: 0.2784, Accuracy: 89.90%
+Testing  - Accuracy: 85.41%
+--------------------------------------------------
+Epoch [7/20]
+Training - Loss: 0.1844, Accuracy: 93.51%
+Testing  - Accuracy: 88.22%
+--------------------------------------------------
+Epoch [8/20]
+Training - Loss: 0.1677, Accuracy: 93.83%
+Testing  - Accuracy: 86.82%
+--------------------------------------------------
+Epoch [9/20]
+Training - Loss: 0.1527, Accuracy: 94.46%
+Testing  - Accuracy: 88.78%
+--------------------------------------------------
+Epoch [10/20]
+Training - Loss: 0.1127, Accuracy: 96.14%
+Testing  - Accuracy: 88.50%
+--------------------------------------------------
+Epoch [11/20]
+Training - Loss: 0.0982, Accuracy: 96.63%
+Testing  - Accuracy: 85.27%
+--------------------------------------------------
+Epoch [12/20]
+Training - Loss: 0.0798, Accuracy: 97.72%
+Testing  - Accuracy: 89.06%
+--------------------------------------------------
+Epoch [13/20]
+Training - Loss: 0.0422, Accuracy: 98.95%
+Testing  - Accuracy: 89.20%
+--------------------------------------------------
+Epoch [14/20]
+Training - Loss: 0.0323, Accuracy: 99.30%
+Testing  - Accuracy: 87.10%
+--------------------------------------------------
+Epoch [15/20]
+Training - Loss: 0.0263, Accuracy: 99.44%
+Testing  - Accuracy: 89.76%
+--------------------------------------------------
+Epoch [16/20]
+Training - Loss: 0.0283, Accuracy: 99.23%
+Testing  - Accuracy: 87.24%
+--------------------------------------------------
+Epoch [17/20]
+Training - Loss: 0.0241, Accuracy: 99.23%
+Testing  - Accuracy: 88.92%
+--------------------------------------------------
+Epoch [18/20]
+Training - Loss: 0.0312, Accuracy: 99.16%
+Testing  - Accuracy: 88.92%
+--------------------------------------------------
+Epoch [19/20]
+Training - Loss: 0.0248, Accuracy: 99.26%
+Testing  - Accuracy: 88.64%
+--------------------------------------------------
+Epoch [20/20]
+Training - Loss: 0.0291, Accuracy: 99.09%
+Testing  - Accuracy: 89.62%
+--------------------------------------------------
+Test Accuracy: 89.62%
+Epoch [20/20]
+Training - Loss: 0.0291, Accuracy: 99.09%
+Testing  - Accuracy: 89.62%
+--------------------------------------------------
+wandb: WARNING Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

@@ -1,0 +1,41 @@
+{"time":"2024-11-08T06:24:31.2190628+07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-08T06:24:31.2191108+07:00","level":"INFO","msg":"created symlink","path":"D:\\trashnet\\wandb\\run-20241108_062428-twlsa00r\\logs\\debug-core.log"}
+{"time":"2024-11-08T06:24:31.3316096+07:00","level":"INFO","msg":"created new stream","id":"twlsa00r"}
+{"time":"2024-11-08T06:24:31.3316096+07:00","level":"INFO","msg":"stream: started","id":"twlsa00r"}
+{"time":"2024-11-08T06:24:31.3316096+07:00","level":"INFO","msg":"sender: started","stream_id":"twlsa00r"}
+{"time":"2024-11-08T06:24:31.3316096+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"twlsa00r"}}
+{"time":"2024-11-08T06:24:31.3316096+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"twlsa00r"}}
+{"time":"2024-11-08T06:24:31.7317532+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-08T06:24:31.9290372+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:24:31.9473349+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:24:31.9606944+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:24:31.9777849+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:24:42.8510842+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:24:42.8654493+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:24:42.8705968+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:09.6705986+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:09.8842184+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:13.698924+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:21.7871475+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:21.7979093+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:23.0770878+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:23.0841912+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:31.1472103+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:31.1636043+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:31.511375+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:34.0160489+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:34.0174353+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:36.4149287+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:36.4204457+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:40.4411279+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:41.9981515+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:25:45.1476626+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:25:45.5791588+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:27:47.6195845+07:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/muhammad-abdlhadi-universitas-esa-unggul/trash_classification/twlsa00r/file_stream"}
+{"time":"2024-11-08T06:27:47.6195845+07:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/muhammad-abdlhadi-universitas-esa-unggul/trash_classification/twlsa00r/file_stream: {\"error\":\"run trash_classification/twlsa00r not found while streaming file\"}"}
+{"time":"2024-11-08T06:27:54.4000597+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:27:56.8625774+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:27:56.8816812+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:27:56.9155024+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:27:56.9267783+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:27:56.9867082+07:00","level":"INFO","msg":"Pausing system monitor"}

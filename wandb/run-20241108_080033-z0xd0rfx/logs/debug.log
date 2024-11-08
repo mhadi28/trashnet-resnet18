@@ -1,0 +1,52 @@
+2024-11-08 08:00:33,315 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-08 08:00:33,315 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Configure stats pid to 4568
+2024-11-08 08:00:33,315 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Loading settings from C:\Users\azzam\.config\wandb\settings
+2024-11-08 08:00:33,315 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Loading settings from D:\trashnet\wandb\settings
+2024-11-08 08:00:33,315 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-08 08:00:33,315 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-08 08:00:33,316 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-08 08:00:33,316 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-08 08:00:33,316 INFO    MainThread:4568 [wandb_init.py:_log_setup():533] Logging user logs to D:\trashnet\wandb\run-20241108_080033-z0xd0rfx\logs\debug.log
+2024-11-08 08:00:33,316 INFO    MainThread:4568 [wandb_init.py:_log_setup():534] Logging internal logs to D:\trashnet\wandb\run-20241108_080033-z0xd0rfx\logs\debug-internal.log
+2024-11-08 08:00:33,316 INFO    MainThread:4568 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000024DD6F9E1A0>
+2024-11-08 08:00:33,317 INFO    MainThread:4568 [wandb_init.py:init():619] calling init triggers
+2024-11-08 08:00:33,317 INFO    MainThread:4568 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-11-08 08:00:33,317 INFO    MainThread:4568 [wandb_init.py:init():669] starting backend
+2024-11-08 08:00:33,317 INFO    MainThread:4568 [wandb_init.py:init():673] sending inform_init request
+2024-11-08 08:00:33,319 INFO    MainThread:4568 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-11-08 08:00:33,321 INFO    MainThread:4568 [wandb_init.py:init():686] backend started and connected
+2024-11-08 08:00:33,331 INFO    MainThread:4568 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2024-11-08 08:00:33,339 INFO    MainThread:4568 [wandb_run.py:_label_probe_notebook():1351] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 1447269: character maps to <undefined>
+2024-11-08 08:00:33,340 INFO    MainThread:4568 [wandb_init.py:init():781] updated telemetry
+2024-11-08 08:00:33,341 INFO    MainThread:4568 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-08 08:00:33,854 INFO    MainThread:4568 [wandb_init.py:init():867] starting run threads in backend
+2024-11-08 08:00:34,066 INFO    MainThread:4568 [wandb_run.py:_console_start():2451] atexit reg
+2024-11-08 08:00:34,066 INFO    MainThread:4568 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2024-11-08 08:00:34,066 INFO    MainThread:4568 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2024-11-08 08:00:34,066 INFO    MainThread:4568 [wandb_run.py:_redirect():2389] Redirects installed.
+2024-11-08 08:00:34,069 INFO    MainThread:4568 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-08 08:00:34,078 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-08 08:00:34,079 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Configure stats pid to 4568
+2024-11-08 08:00:34,079 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Loading settings from C:\Users\azzam\.config\wandb\settings
+2024-11-08 08:00:34,079 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Loading settings from D:\trashnet\wandb\settings
+2024-11-08 08:00:34,079 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-08 08:00:34,079 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-08 08:00:34,079 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-08 08:00:34,079 INFO    MainThread:4568 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-08 08:00:34,080 INFO    MainThread:4568 [wandb_init.py:_log_setup():533] Logging user logs to D:\trashnet\wandb\run-20241108_080034-grqsu3mu\logs\debug.log
+2024-11-08 08:00:34,080 INFO    MainThread:4568 [wandb_init.py:_log_setup():534] Logging internal logs to D:\trashnet\wandb\run-20241108_080034-grqsu3mu\logs\debug-internal.log
+2024-11-08 08:00:34,080 INFO    MainThread:4568 [wandb_init.py:init():619] calling init triggers
+2024-11-08 08:00:34,080 INFO    MainThread:4568 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0001, 'epochs': 50, 'batch_size': 64, 'model': 'ResNet18'}
+2024-11-08 08:00:34,080 INFO    MainThread:4568 [wandb_init.py:init():644] re-initializing run, found existing run on stack: z0xd0rfx
+2024-11-08 08:00:34,081 INFO    MainThread:4568 [wandb_run.py:_finish():2146] finishing run muhammad-abdlhadi-universitas-esa-unggul/trash_classification/z0xd0rfx
+2024-11-08 08:00:34,082 INFO    MainThread:4568 [jupyter.py:save_history():459] not saving jupyter history
+2024-11-08 08:00:34,082 INFO    MainThread:4568 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-08 08:00:34,082 INFO    MainThread:4568 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-08 08:00:34,082 INFO    MainThread:4568 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2024-11-08 08:00:34,082 INFO    MainThread:4568 [wandb_run.py:_restore():2396] restore
+2024-11-08 08:00:34,082 INFO    MainThread:4568 [wandb_run.py:_restore():2402] restore done
+2024-11-08 08:00:36,818 INFO    MainThread:4568 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-08 08:00:36,818 INFO    MainThread:4568 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-08 08:00:36,825 INFO    MainThread:4568 [wandb_run.py:_footer_sync_info():3922] logging synced files

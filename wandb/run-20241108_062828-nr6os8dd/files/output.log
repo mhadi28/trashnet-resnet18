@@ -1,0 +1,73 @@
+C:\Users\azzam\AppData\Local\Programs\Python\Python310\lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+C:\Users\azzam\AppData\Local\Programs\Python\Python310\lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+C:\Users\azzam\AppData\Local\Programs\Python\Python310\lib\site-packages\joblib\externals\loky\backend\context.py:136: UserWarning: Could not find the number of physical cores for the following reason:
+found 0 physical cores < 1
+Returning the number of logical cores instead. You can silence this warning by setting LOKY_MAX_CPU_COUNT to the number of cores you want to use.
+  warnings.warn(
+  File "C:\Users\azzam\AppData\Local\Programs\Python\Python310\lib\site-packages\joblib\externals\loky\backend\context.py", line 282, in _count_physical_cores
+    raise ValueError(f"found {cpu_count_physical} physical cores < 1")
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.70980394..0.79607844].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8901961..0.9607843].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8745098..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.92941177..0.77254903].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.75686276..0.7176471].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.92156863..0.8039216].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.5058824..0.84313726].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8039216..0.8901961].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8980392..0.81960785].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.69411767..0.9764706].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.85882354..0.88235295].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-1.0..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.88235295..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8901961..0.85882354].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8666667..0.9529412].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8509804..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.6784314..0.92941177].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.46666664..0.827451].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.70980394..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.6156863..0.99215686].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8039216..0.9607843].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.78039217..0.8901961].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.29411763..0.92941177].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8666667..0.8509804].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.05098039..0.4901961].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.8039216..0.8117647].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.9529412..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.42745095..0.9372549].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.94509804..1.0].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.52156866..0.8745098].
+Average image size (HxW): 224.00 x 224.00
+Epoch [1/10], Loss: 0.9608, Accuracy: 62.86%
+Epoch [2/10], Loss: 0.5411, Accuracy: 80.11%
+Epoch [3/10], Loss: 0.4215, Accuracy: 83.97%
+Epoch [4/10], Loss: 0.3546, Accuracy: 86.46%
+Epoch [5/10], Loss: 0.2904, Accuracy: 89.34%
+Epoch [6/10], Loss: 0.2432, Accuracy: 91.16%
+Epoch [7/10], Loss: 0.1771, Accuracy: 93.79%
+Epoch [8/10], Loss: 0.1928, Accuracy: 92.88%
+Epoch [9/10], Loss: 0.1363, Accuracy: 95.33%
+Epoch [10/10], Loss: 0.0995, Accuracy: 96.53%
+Test Accuracy: 89.20%
+Epoch [1/20], Loss: 0.0675, Accuracy: 97.83%
+Epoch [2/20], Loss: 0.0505, Accuracy: 98.46%
+Epoch [3/20], Loss: 0.1024, Accuracy: 96.21%
+Epoch [4/20], Loss: 0.0381, Accuracy: 98.98%
+Epoch [5/20], Loss: 0.0180, Accuracy: 99.61%
+Epoch [6/20], Loss: 0.0310, Accuracy: 99.05%
+Epoch [7/20], Loss: 0.0213, Accuracy: 99.47%
+Epoch [8/20], Loss: 0.0179, Accuracy: 99.65%
+Epoch [9/20], Loss: 0.0077, Accuracy: 99.86%
+Epoch [10/20], Loss: 0.0128, Accuracy: 99.65%
+Epoch [11/20], Loss: 0.0159, Accuracy: 99.54%
+Epoch [12/20], Loss: 0.0211, Accuracy: 99.37%
+Epoch [13/20], Loss: 0.0138, Accuracy: 99.61%
+Epoch [14/20], Loss: 0.0103, Accuracy: 99.68%
+Epoch [15/20], Loss: 0.0498, Accuracy: 98.88%
+Epoch [16/20], Loss: 0.2049, Accuracy: 93.02%
+Epoch [17/20], Loss: 0.0384, Accuracy: 98.74%
+Epoch [18/20], Loss: 0.0187, Accuracy: 99.61%
+Epoch [19/20], Loss: 0.0114, Accuracy: 99.72%
+Epoch [20/20], Loss: 0.0079, Accuracy: 99.86%
+Test Accuracy: 88.64%

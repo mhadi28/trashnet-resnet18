@@ -1,0 +1,205 @@
+Epoch [1/50]
+Training - Loss: 1.7273, Accuracy: 26.41%
+Testing  - Accuracy: 61.57%
+--------------------------------------------------
+Epoch [2/50]
+Training - Loss: 1.4944, Accuracy: 47.39%
+Testing  - Accuracy: 63.67%
+--------------------------------------------------
+Epoch [3/50]
+Training - Loss: 1.2156, Accuracy: 56.19%
+Testing  - Accuracy: 63.81%
+--------------------------------------------------
+Epoch [4/50]
+Training - Loss: 1.0561, Accuracy: 60.29%
+Testing  - Accuracy: 67.74%
+--------------------------------------------------
+Epoch [5/50]
+Training - Loss: 0.9501, Accuracy: 64.61%
+Testing  - Accuracy: 69.42%
+--------------------------------------------------
+Epoch [6/50]
+Training - Loss: 0.8753, Accuracy: 67.77%
+Testing  - Accuracy: 72.09%
+--------------------------------------------------
+Epoch [7/50]
+Training - Loss: 0.8113, Accuracy: 69.94%
+Testing  - Accuracy: 73.21%
+--------------------------------------------------
+Epoch [8/50]
+Training - Loss: 0.7692, Accuracy: 71.20%
+Testing  - Accuracy: 73.07%
+--------------------------------------------------
+Epoch [9/50]
+Training - Loss: 0.7260, Accuracy: 73.87%
+Testing  - Accuracy: 75.18%
+--------------------------------------------------
+Epoch [10/50]
+Training - Loss: 0.6977, Accuracy: 75.55%
+Testing  - Accuracy: 77.28%
+--------------------------------------------------
+Epoch [11/50]
+Training - Loss: 0.6631, Accuracy: 76.57%
+Testing  - Accuracy: 76.86%
+--------------------------------------------------
+Epoch [12/50]
+Training - Loss: 0.6332, Accuracy: 77.97%
+Testing  - Accuracy: 77.56%
+--------------------------------------------------
+Epoch [13/50]
+Training - Loss: 0.6273, Accuracy: 77.94%
+Testing  - Accuracy: 77.70%
+--------------------------------------------------
+Epoch [14/50]
+Training - Loss: 0.5755, Accuracy: 79.52%
+Testing  - Accuracy: 78.12%
+--------------------------------------------------
+Epoch [15/50]
+Training - Loss: 0.5513, Accuracy: 80.43%
+Testing  - Accuracy: 79.10%
+--------------------------------------------------
+Epoch [16/50]
+Training - Loss: 0.5402, Accuracy: 81.45%
+Testing  - Accuracy: 78.96%
+--------------------------------------------------
+Epoch [17/50]
+Training - Loss: 0.5342, Accuracy: 81.55%
+Testing  - Accuracy: 79.66%
+--------------------------------------------------
+Epoch [18/50]
+Training - Loss: 0.4891, Accuracy: 83.09%
+Testing  - Accuracy: 79.52%
+--------------------------------------------------
+Epoch [19/50]
+Training - Loss: 0.4923, Accuracy: 82.74%
+Testing  - Accuracy: 80.36%
+--------------------------------------------------
+Epoch [20/50]
+Training - Loss: 0.4829, Accuracy: 83.44%
+Testing  - Accuracy: 80.22%
+--------------------------------------------------
+Epoch [21/50]
+Training - Loss: 0.4555, Accuracy: 85.55%
+Testing  - Accuracy: 80.50%
+--------------------------------------------------
+Epoch [22/50]
+Training - Loss: 0.4411, Accuracy: 84.50%
+Testing  - Accuracy: 80.79%
+--------------------------------------------------
+Epoch [23/50]
+Training - Loss: 0.4447, Accuracy: 84.85%
+Testing  - Accuracy: 80.79%
+--------------------------------------------------
+Epoch [24/50]
+Training - Loss: 0.4119, Accuracy: 85.83%
+Testing  - Accuracy: 80.65%
+--------------------------------------------------
+Epoch [25/50]
+Training - Loss: 0.4076, Accuracy: 86.04%
+Testing  - Accuracy: 81.07%
+--------------------------------------------------
+Epoch [26/50]
+Training - Loss: 0.3860, Accuracy: 86.95%
+Testing  - Accuracy: 81.77%
+--------------------------------------------------
+Epoch [27/50]
+Training - Loss: 0.3830, Accuracy: 87.55%
+Testing  - Accuracy: 81.91%
+--------------------------------------------------
+Epoch [28/50]
+Training - Loss: 0.3519, Accuracy: 87.27%
+Testing  - Accuracy: 81.77%
+--------------------------------------------------
+Epoch [29/50]
+Training - Loss: 0.3509, Accuracy: 87.72%
+Testing  - Accuracy: 81.49%
+--------------------------------------------------
+Epoch [30/50]
+Training - Loss: 0.3424, Accuracy: 88.53%
+Testing  - Accuracy: 82.61%
+--------------------------------------------------
+Epoch [31/50]
+Training - Loss: 0.3581, Accuracy: 88.25%
+Testing  - Accuracy: 82.05%
+--------------------------------------------------
+Epoch [32/50]
+Training - Loss: 0.3296, Accuracy: 88.88%
+Testing  - Accuracy: 83.31%
+--------------------------------------------------
+Epoch [33/50]
+Training - Loss: 0.3225, Accuracy: 89.09%
+Testing  - Accuracy: 83.17%
+--------------------------------------------------
+Epoch [34/50]
+Training - Loss: 0.3091, Accuracy: 88.95%
+Testing  - Accuracy: 83.03%
+--------------------------------------------------
+Epoch [35/50]
+Training - Loss: 0.2999, Accuracy: 89.90%
+Testing  - Accuracy: 84.29%
+--------------------------------------------------
+Epoch [36/50]
+Training - Loss: 0.2862, Accuracy: 90.42%
+Testing  - Accuracy: 83.59%
+--------------------------------------------------
+Epoch [37/50]
+Training - Loss: 0.2920, Accuracy: 89.83%
+Testing  - Accuracy: 83.87%
+--------------------------------------------------
+Epoch [38/50]
+Training - Loss: 0.2857, Accuracy: 90.18%
+Testing  - Accuracy: 84.43%
+--------------------------------------------------
+Epoch [39/50]
+Training - Loss: 0.2756, Accuracy: 90.99%
+Testing  - Accuracy: 84.57%
+--------------------------------------------------
+Epoch [40/50]
+Training - Loss: 0.2599, Accuracy: 91.23%
+Testing  - Accuracy: 84.99%
+--------------------------------------------------
+Epoch [41/50]
+Training - Loss: 0.2526, Accuracy: 91.79%
+Testing  - Accuracy: 84.99%
+--------------------------------------------------
+Epoch [42/50]
+Training - Loss: 0.2413, Accuracy: 91.93%
+Testing  - Accuracy: 85.27%
+--------------------------------------------------
+Epoch [43/50]
+Training - Loss: 0.2432, Accuracy: 92.00%
+Testing  - Accuracy: 84.99%
+--------------------------------------------------
+Epoch [44/50]
+Training - Loss: 0.2469, Accuracy: 92.04%
+Testing  - Accuracy: 85.13%
+--------------------------------------------------
+Epoch [45/50]
+Training - Loss: 0.2313, Accuracy: 91.72%
+Testing  - Accuracy: 84.99%
+--------------------------------------------------
+Epoch [46/50]
+Training - Loss: 0.2309, Accuracy: 92.04%
+Testing  - Accuracy: 85.27%
+--------------------------------------------------
+Epoch [47/50]
+Training - Loss: 0.2207, Accuracy: 92.56%
+Testing  - Accuracy: 85.69%
+--------------------------------------------------
+Epoch [48/50]
+Training - Loss: 0.2150, Accuracy: 92.77%
+Testing  - Accuracy: 85.69%
+--------------------------------------------------
+Epoch [49/50]
+Training - Loss: 0.1989, Accuracy: 93.20%
+Testing  - Accuracy: 85.13%
+--------------------------------------------------
+Epoch [50/50]
+Training - Loss: 0.2037, Accuracy: 93.02%
+Testing  - Accuracy: 86.68%
+--------------------------------------------------
+Test Accuracy: 86.68%
+Epoch [50/50]
+Training - Loss: 0.2037, Accuracy: 93.02%
+Testing  - Accuracy: 86.68%
+--------------------------------------------------

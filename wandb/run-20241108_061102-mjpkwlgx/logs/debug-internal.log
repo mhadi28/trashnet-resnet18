@@ -1,0 +1,17 @@
+{"time":"2024-11-08T06:11:02.5517317+07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-08T06:11:02.5517317+07:00","level":"INFO","msg":"created symlink","path":"D:\\trashnet\\wandb\\run-20241108_061102-mjpkwlgx\\logs\\debug-core.log"}
+{"time":"2024-11-08T06:11:02.6666102+07:00","level":"INFO","msg":"created new stream","id":"mjpkwlgx"}
+{"time":"2024-11-08T06:11:02.6676112+07:00","level":"INFO","msg":"stream: started","id":"mjpkwlgx"}
+{"time":"2024-11-08T06:11:02.6676112+07:00","level":"INFO","msg":"sender: started","stream_id":"mjpkwlgx"}
+{"time":"2024-11-08T06:11:02.6676112+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mjpkwlgx"}}
+{"time":"2024-11-08T06:11:02.6676112+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mjpkwlgx"}}
+{"time":"2024-11-08T06:11:03.0864846+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-08T06:11:03.2845898+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:11:03.2918124+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:11:03.3041501+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:11:03.3215673+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:11:03.9803625+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:12:44.9307982+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:12:44.9518541+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-08T06:13:21.6501047+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-08T06:13:21.6704643+07:00","level":"INFO","msg":"Pausing system monitor"}
