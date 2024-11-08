@@ -48,7 +48,7 @@ jobs:
 
     - name: Execute Jupyter Notebook
       run: |
-        papermill train_model.ipynb output_train_model.ipynb  # Execute the notebook and save the output
+        papermill trashnet-ResNet18.ipynb output_train_model.ipynb  # Execute the notebook and save the output
 
     - name: Save model output
       run: |
