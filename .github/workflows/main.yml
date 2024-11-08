@@ -52,6 +52,7 @@ jobs:
 
     - name: Save model output
       run: |
+        mkdir -p model_output
         cp output_train_model.ipynb model_output/  # Optional: Store output notebook for debugging/insights
         cp trained_model.pth model_output/  # Move the trained model to a separate folder
 
@@ -63,10 +64,18 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Upload model to Hugging Face
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+
+    - name: Install huggingface_hub
       run: |
-        pip install huggingface_hub  # Install Hugging Face Hub library
-        python -m huggingface_hub login  # Log in to Hugging Face (needs token setup)
-        python -m huggingface_hub.upload model_output/trained_model.pth --repo_id hadi2894/trashnet-resnet18  # Upload model to Hugging Face
+        python -m pip install huggingface_hub
+
+    - name: Upload model to Hugging Face
       env:
-        HF_TOKEN: ${{ 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 }}  # Ensure you store Hugging Face token in GitHub Secrets
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}  # Retrieve the Hugging Face token from GitHub Secrets
+      run: |
+        echo "${HF_TOKEN}" | huggingface-cli login --token
+        huggingface-cli upload model_output/trained_model.pth --repo_id hadi2894/trashnet-resnet18
